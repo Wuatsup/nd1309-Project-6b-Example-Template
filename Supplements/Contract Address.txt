@@ -1,0 +1,24 @@
+Deploying FarmerRole...
+  ... 0x536e3c814732accd6cf84f410670fc2312227b2f90118551116ea81496224a2c
+  FarmerRole: 0x4fa49444d9a25f5eca9766d9267eba7e8d24c8d7
+  Deploying DistributorRole...
+  ... 0xf81a23c0725cd9e9df8a747632bae0027c189f0220425ab381b7c22c924063dc
+  DistributorRole: 0x729b623d9984439851beba77621c03436d90922e
+  Deploying RetailerRole...
+  ... 0xb8f332124846e92a2eaf9beb94ef43c8510eb68b36e7095803889f1882100272
+  RetailerRole: 0x5ba40e3dae06fa31171d4d627a71d46cbe6efcf3
+  Deploying ConsumerRole...
+  ... 0x1c62096ca75bb2b88df7f019c284b88553111f7f815d584fb727ed8594468b1e
+  ConsumerRole: 0x17623a4079b81626e50101ab9e8c4cfa6754fac9
+  Deploying SupplyChain...
+  ... 0xbd7ee64ff5ff6ad0e6edfb8936c20109d013dfbb85165b9b3ea69144695c596c
+  SupplyChain: 0xde75824a0ba9ca2a46009758a9cb74db9e8a24d0
+Saving successful migration to network...
+  ... 0x3d08f64a558da576f1370af8dc8926a2ccca5718f69cf84ca34262695b777abf
+
+
+
+Truffle v4.1.14 (core: 4.1.14)
+Solidity v0.4.24 (solc-js)
+npm: '9.2.0',
+node: '16.14.0',
